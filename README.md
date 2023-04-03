@@ -22,9 +22,9 @@ This project allows you to take attendance for students without having to go thr
 
 To install necessary dependencies, run the following command:
 
-```
+
 You'll need to install Python on your computer and then install pyautogui in the repo. Here is a reference to install pyautogui	https://pyautogui.readthedocs.io/en/latest/install.html
-```
+
 
 ## Usage
 
