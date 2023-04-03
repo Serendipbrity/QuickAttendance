@@ -7,7 +7,7 @@ This project allows you to take attendance for students without having to go thr
 
 ## Table of Contents 
 
-* Screenshot(#screenshot)
+* [Screenshot](#screenshot)
 
 * [Installation](#installation)
 
