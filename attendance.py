@@ -7,7 +7,7 @@ import time
 time.sleep(2) 
 pyautogui.click()
 
-numberOfStudents = 64
+numberOfStudents = 58
 
 for x in range(numberOfStudents):
     pyautogui.press('down')

@@ -28,7 +28,7 @@ You'll need to install Python on your computer and then install pyautogui in the
 
 ## Usage
 
-Hit the play button on your editor to start the script then place you mouse over top of the first name in the browser. To quickly end the script, move your mouse to the top left corner of the screen
+Hit the play button on your editor to start the script then place you mouse over top of the first name in the browser. Do not click, it will click for you. To quickly end the script, move your mouse to the top left corner of the screen
 
 
 
