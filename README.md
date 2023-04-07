@@ -16,7 +16,10 @@ This project allows you to take attendance for students without having to go thr
 
 * [Questions](#questions)
 
-## Screenshot
+
+## Screen Recording
+https://user-images.githubusercontent.com/96275616/230632840-8e73dc2b-1fb2-45d9-bce6-e5f7da508000.mov
+
 
 ## Installation
 
