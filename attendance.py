@@ -4,10 +4,10 @@ import time
 # print( pyautogui.size())
 # pyautogui.displayMousePosition()
 # pyautogui.moveTo(2466,407)
-time.sleep(2) 
+time.sleep(1) 
 pyautogui.click()
 
-numberOfStudents = 58
+numberOfStudents = 56
 
 for x in range(numberOfStudents):
     pyautogui.press('down')

@@ -24,11 +24,12 @@ https://user-images.githubusercontent.com/96275616/230632840-8e73dc2b-1fb2-45d9-
 ## Installation
 
 You'll need to install Python on your computer and then install pyautogui in the repo. Here is a reference to install pyautogui	https://pyautogui.readthedocs.io/en/latest/install.html
+You can click on the Cheat Sheet under 'Installation' for references in altering the code to fit your needs.
 
 
 ## Usage
 
-Hit the play button on your editor to start the script then place you mouse over top of the first name in the browser. Do not click, it will click for you. To quickly end the script, move your mouse to the top left corner of the screen
+Hit the play button on your editor to start the script then place you mouse over top of the first name in the browser. Do not click, it will click for you. To quickly stop the script, move your mouse to the top left corner of the screen
 
 
 
